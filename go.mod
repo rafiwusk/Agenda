@@ -1,3 +1,3 @@
-module github.com/rafiwusk/Agenda
+module package_name
 
-go 1.19
+go 1.23.2
